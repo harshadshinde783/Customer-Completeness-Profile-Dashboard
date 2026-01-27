@@ -83,7 +83,3 @@ The dataset contains customer profile information, including:
 
 ---
 
-## 📸 Dashboard Preview
-```md
-(https://github.com/harshadshinde783/Customer-Completeness-Profile-Dashboard/blob/main/Screenshots/Customer%20Dashboard.pdf)
-
