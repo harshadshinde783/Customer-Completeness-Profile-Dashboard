@@ -10,7 +10,9 @@ The solution is designed to support **data governance, customer analytics, and o
 
 ## 📊 Power BI Dashboard
 
-![Overview page]()
+![Overview page](https://github.com/harshadshinde783/Customer-Completeness-Profile-Dashboard/blob/main/Screenshot/Overview%20Dashboard.png)
+![Data Completeness page]()
+
 
 
 ## 🎯 Business Problem
