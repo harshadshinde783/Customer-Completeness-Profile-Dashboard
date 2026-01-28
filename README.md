@@ -8,6 +8,11 @@ The solution is designed to support **data governance, customer analytics, and o
 
 ---
 
+## 📊 Power BI Dashboard
+
+![Overview page]()
+
+
 ## 🎯 Business Problem
 Incomplete customer profiles lead to:
 - Poor customer communication
